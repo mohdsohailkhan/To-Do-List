@@ -1,0 +1,44 @@
+.main{
+  background-color: rgba(0, 0, 255, 0.663);
+  padding-bottom: 10rem;
+}
+.heading{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: white;
+  padding: 1rem;
+}
+.inputcontainer{
+  width: 40rem;
+  height: 15rem;
+  margin-left: 28rem;
+  margin-top: 2rem;
+  background-color: white;
+  border: 1px solid rgba(0, 0, 255, 0.663);
+  padding: auto;
+  border-radius: 2rem;
+}
+.para{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.inputField{
+  padding: 1rem;
+  width: 25rem;
+  margin-left: 7rem;
+  margin-top: 1rem;
+  outline: none;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+}
+.inputButton{
+  padding: 0.8rem;
+  width: 15rem;
+  margin-top: 1.5rem;
+  margin-left: 12rem;
+  background-color: rgba(0, 0, 255, 0.663);
+  color: white;
+  border: 1px solid white;
+  cursor: pointer;
+  font-weight: bold;
+}
